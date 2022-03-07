@@ -23,3 +23,4 @@ in task 21 the script reverse its input
 in task 22 the script  display all user and their home directory
 in task 23 the script Write a command that finds all empty files and directories in the current directory and all sub-directories.
 in task 24 the script lists all the files with a .gif extension in the current directory and all its sub-directories.
+in task 25 the script 
