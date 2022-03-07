@@ -21,3 +21,4 @@ in task 19 the script Replace all characters A and c from input to Z and e respe
 in task 20 the script remove all letter c and c from input
 in task 21 the script reverse its input
 in task 22 the script  display all user and their home directory
+in task 23 the script Write a command that finds all empty files and directories in the current directory and all sub-directories.
