@@ -12,3 +12,4 @@ in task 10 the script delete the regular file not directory
 in task 11 the script count the number of directory and sub directory
 in task 12 the script display the 10 newest files
 in task 13 task a list of word as input and prints only words that appear exactly 
+in task 14 the script displayed the pattern "root" from the file /etc/passwd
