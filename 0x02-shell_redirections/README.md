@@ -15,3 +15,4 @@ in task 13 task a list of word as input and prints only words that appear exactl
 in task 14 the script displayed the pattern "root" from the file /etc/passwd
 in task 15 the script display the number of line that contain the pattern 'bin' in the file /etc/passwd
 in task 16 the script Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+in task 17 the script Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
