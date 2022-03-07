@@ -4,3 +4,4 @@ in task 2 the script is printing cat/passwd
 in task 3 the script is printing cat/passwd and /etc/hosts
 in task 4 the script is printing tail /etc/passwd
 in task 5 the script is displaying 1st line of /etc/passwd
+in task 6 the script displayed the 3rd line of the file iacta
