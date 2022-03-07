@@ -1,4 +1,5 @@
 in task 0 the script is printing hello world
-in task 1 the script is priniting a smilling face 
-in task 2 the script is priniting etc/passwd
-in task 3 the script is priniting ect/passwd and /etc/hosts
+in task 1 the script is printing a smilling face 
+in task 2 the script is printing cat/passwd
+in task 3 the script is printing cat/passwd and /etc/hosts
+in task 4 the script is printing tail /etc/passwd
