@@ -10,3 +10,4 @@ in task 8 the script is written in the file is_cwd_content as a result of the co
 in task 9 the script duplicate the last line of the file iacta
 in task 10 the script delete the regular file not directory
 in task 11 the script count the number of directory and sub directory
+in task 12 the script display the 10 newest files
