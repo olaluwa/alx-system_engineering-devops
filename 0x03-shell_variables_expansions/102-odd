@@ -1,6 +1,6 @@
 #!/bin/bash 
 FILENAME=${1}
-IFS=''
+IFS=' '
 i=1
 
 for line in $(cat ${FILENAME})
