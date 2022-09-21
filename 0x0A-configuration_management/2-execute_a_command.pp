@@ -1,4 +1,6 @@
-# pkill on proc killmenow
-exec { 'pkill -f killmenow':
-    path     => ['/usr/bin', '/usr/sbin',],
+# kills a process
+exec { 'killmenow':
+  command  => '/usr/bin/pkill killmenow',
+  provider => 'shell',
+  returns  => [0, 1],
 }
